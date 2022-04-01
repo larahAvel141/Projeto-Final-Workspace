@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "eureka-server"
+		},
+		{
+			"path": "zuul-server"
+		},
+		{
+			"path": "tech4movies"
+		},
+		{
+			"path": "tech4directors"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
