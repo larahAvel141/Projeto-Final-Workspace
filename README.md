@@ -24,7 +24,8 @@ Dois microsserviços para cadastro de filmes e diretores : tech4movies e tech4di
   
   Para usar a aplicação será necessário o uso do **Postman** e usar os verbos HTTP. 
 
-  Para tech4movies: http://localhost:8011/tech4movies/api/filmes
+  **No Postman**<br />
+  Para tech4movies: http://localhost:8011/tech4movies/api/filmes <br />
   E para ter a lista de filmes por diretores: http://localhost:8011/tech4movies/api/filmes/lista/{diretor}
 
   Para tech4directors:http://localhost:8011/tech4directors/api/diretores
