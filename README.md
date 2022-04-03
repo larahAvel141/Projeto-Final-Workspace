@@ -20,6 +20,7 @@ Dois microsserviços para cadastro de filmes e diretores : tech4movies e tech4di
   1️⃣- Subir o eureka-server / para que esteja disponível para registros.<br />
   2️⃣- Subir o zuul-server / para que esteja disponível para rotear os microsserviços.<br />
   3️⃣- Subir qualquer um dos microsserviços : tech4movies e/ou tech4directors.<br />
+  Acesse http://localhost:8010/eureka no navegador para verificar se estão todos corretos.
   
   Para usar a aplicação será necessário o uso do **Postman** e usar os verbos HTTP. 
 
