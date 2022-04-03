@@ -1,6 +1,6 @@
 # Projeto-Final-Workspace
 
-👩‍💻💻O projeto tem uma arquitetura de microsserviços desenvolvidos com Spring.
+👩‍💻💻O projeto tem uma arquitetura de microsserviços desenvolvidos com Spring que tem como 2 microsserviços principais de **filmes e diretores**
 
 <h3><b><i>Consiste em 4 projetos no worksapce:</b></em></h3>
 
